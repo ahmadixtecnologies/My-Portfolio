@@ -1,0 +1,9 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Smart Dost</title><link rel="stylesheet" href="common.css"><link rel="stylesheet" href="popup.css"></head><body class="popup">
+<header class="between"><div class="brand"><div class="brand-mark">SD</div><div><strong>Smart Dost</strong><div class="muted small">Your everyday toolkit</div></div></div><button class="ghost icon-btn" id="openDashboard" title="Open dashboard">↗</button></header>
+<div class="quick-grid">
+<button class="quick" data-open="notes"><span>✎</span>Quick Notes</button><button class="quick" data-open="tasks"><span>✓</span>To-Do List</button><button class="quick" data-open="password"><span>⠿</span>Password</button><button class="quick" data-open="qr"><span>▦</span>QR Maker</button><button class="quick" data-open="calculator"><span>＋</span>Calculator</button><button class="quick" data-open="word"><span>¶</span>Word Counter</button>
+</div>
+<section class="card mini-card"><div class="between"><h3>Quick note</h3><span class="pill" id="saveState">Saved locally</span></div><textarea id="quickNote" class="field" rows="4" placeholder="Write something worth remembering..."></textarea></section>
+<section class="card mini-card"><div class="between"><h3>Tasks</h3><span class="muted small" id="taskCount">0 pending</span></div><div id="taskPreview" class="stack"></div></section>
+<footer class="between"><span class="muted small">Private • Stored in this Chrome profile</span><button class="secondary" id="settingsBtn">Settings</button></footer>
+<script src="popup.js"></script></body></html>
