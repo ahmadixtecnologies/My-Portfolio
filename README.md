@@ -18,14 +18,10 @@ I enjoy learning by building across software development, hardware, artificial i
 | --- | --- |
 | [Web Projects](./Web_Projects/) | Websites and frontend development |
 | [App Projects](./App_Projects/) | Application development |
-| [Python Projects](./Python_Projects/) | Python practice, scripts, and tools |
-| [C++ Projects](./Cpp_Projects/) | C++ programming and fundamentals |
 | [Arduino & IoT](./Arduino_IoT_Projects/) | Embedded and connected-device work |
-| [AI Projects](./AI_Projects/) | Artificial intelligence experiments |
 | [Graphic Design](./Graphic_Design/) | Visual and branding work |
 | [Video Editing](./Video_Editing/) | Video and media projects |
 | [Certificates](./Certificates/) | Learning credentials and certificates |
-| [Portfolio Assets](./Portfolio_Assets/) | Shared images and portfolio resources |
 | [Documentation](./Documentation/) | Portfolio notes and supporting documents |
 
 ## Featured Projects
